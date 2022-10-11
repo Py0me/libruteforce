@@ -20,7 +20,6 @@
       - [ ] Full Zombie class implementation
     - [ ] Full `URL` attack implementation
       - [ ] Full HTTP &amp; HTTPS protocol support
-      - [ ] 
     - [ ] Full `LogIn` attack implementation
     - [ ] Basic `Passwrd` attack implementation
     - [ ] Basic `SearchHTML`  attack implementation
